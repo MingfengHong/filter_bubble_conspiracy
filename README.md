@@ -385,7 +385,7 @@ matplotlib.rcParams['font.sans-serif'] = ['你的中文字体']
 
 ## 💻 技术栈
 
-- **语言**: Python 3.8+
+- **语言**: Python 3.12+
 - **框架**: Mesa 3.3.0 (Agent-Based Modeling)
 - **数据处理**: NumPy, Pandas
 - **可视化**: Matplotlib
@@ -411,12 +411,12 @@ MIT License - 用于学术研究和教育目的
 
 ## 📧 联系
 
-本项目探索计算社会科学方法在传播学中的应用，研究信息茧房的形成机制。
-
+本项目探索计算社会科学方法在传播学中的应用，研究信息茧房的形成机制，是中国科学院大学经济与管理学院课程《复杂系统建模、仿真与管理》（1800871201J4M2003Z，主讲老师：贺舟）的课程作业延伸。
+**联系**：hongmingfeng24@mails.ucas.ac.cn
 **致谢**: 感谢 Mesa 开发团队提供优秀的 ABM 框架。
 
 ---
 
 <p align="center">
-  <strong>祝你的复杂系统研究顺利！🎓📊</strong>
+  <strong>祝研究顺利！🎓📊</strong>
 </p>
